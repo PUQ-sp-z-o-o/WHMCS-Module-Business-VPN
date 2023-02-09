@@ -1,1 +1,32 @@
+# Basic concepts and requirements
 
+##### Requirements for the successful operation of the module
+
+- Minimal WHMCS version 8+
+- Mikrotik/CHR router OS 7+
+- Public network for the needs of NAT implementation
+
+<p class="callout info">An IP address class must be reserved for the solution. Each end customer receives one IP address after activating the service.</p>
+
+Please refer to the basic mode of operation of the module to better understand its operation and functionality.
+
+##### The basic logic of the module
+
+During the creation of a service for the end client, the module does the following actions:
+
+1. Automatically selects a free public IP address from the server available in the settings. When choosing an available IP address, services in the terminated state are not taken into account, i.e. previously used IP. *(Previously used IP addresses for services that have not been extended and have expired will be used to activate the service for the new client.)*
+2. The module configures the selected public IP address on the network interface of the router.
+3. The module *creates firewall rules* such as:  
+    
+    - NAT rules for accessing the Internet private network
+    - Allowing firewall rules for communication between IP's of a private network
+    - Block rules that block traffic between all other private networks.
+
+##### Mikrotik management schema
+
+- When a user creates a VPN account, the module creates a VPN user Mikrotik on the router, adds queues with a bandwidth limit.
+- When a user deletes a VPN Account, the module deletes the VPN user on Mikrotik and deletes the bandwidth-limiting queue.
+- When a user creates port forwarding, the module creates rules on the Mikrotik router in the firewall that implement port forwarding from a public address to a private one.
+- During service suspension, the module disables all VPN client accounts and resets all active connections.
+- During service unsuspension, the module enables all VPN client accounts.
+- During service termination, the module deletes all VPN client accounts, deletes all firewall rules associated with the service, and also deletes the public IP from the router's network interface.
