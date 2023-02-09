@@ -1,6 +1,6 @@
 # Product Home Screen
 
-##### The main screen of the product contains the following items.
+### The main screen of the product contains the following items.
 
 - List of VPN client accounts
 - List of all forwarded client ports.
