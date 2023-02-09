@@ -1,1 +1,27 @@
+# Home screen
 
+##### Basic information on client panel page
+
+**VPN server:** The VPN server address that is entered when creating a VPN connection for the end user
+
+**Dedicated IP:** The public IP address that is reserved for the service and through which all users of the VPN service will be represented on the Internet.  
+  
+**Private internal network:** Private subnet whose IP addresses are available to the client to create VPN accounts. When adding a new VPN account, it will be assigned an IP address from this internal pool of addresses.  
+  
+**VPN Protocols:** VPN protocols that are available *(by default you can easly enable two protocols in Mikrotik router: PPPtP i L2TP* )  
+  
+**L2TP IPSec PSK key:** In the case of L2TP, this is the encryption key  
+  
+**Number of VPN accounts:**Number of used and available VPN client accounts from the pool available based on the defined package.  
+  
+**Bandwidtht download/upload:** The bandwidth rate that will be available on each VPN client account
+
+##### Function buttons for service management.
+
+- **Add VPN account:** To create a new VPN account
+- **Port Forwarding:** To configure port forwarding from a public IP address to a private one
+- **Statistics:** To access connection statistics of VPN
+
+##### List of VPN accounts with technical/dynamic data and also buttons **Edit** and **Reset connections**
+
+[![image-1666086597302.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666086597302.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666086597302.png)

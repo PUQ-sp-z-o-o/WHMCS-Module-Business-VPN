@@ -1,0 +1,16 @@
+# Edit VPN account
+
+##### In order to edit a VPN account, you must click on the **Edit** button on the selected account.
+
+[![image-1666087780971.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666087780971.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666087780971.png)
+
+##### You can edit the following parameters:
+
+- Password
+- IP address
+- Enable/Disable VPN account
+
+##### Also on the editing page there is an opportunity to delete a VPN account.   
+By pressing the DELETE button
+
+[![image-1666087787545.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666087787545.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666087787545.png)
