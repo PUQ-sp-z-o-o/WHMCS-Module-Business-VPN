@@ -1,16 +1,16 @@
 # WHMCS-Module-Business-VPN
-Provision VPN accounts using Mikrotik via WHMCS module.
+The module is intended as an opportunity for IT companies to expand their offer for customers by offering paid VPN accounts. After installation, the module will fully manage the creation, edition, and suspension of VPN accounts and interact with the WHMCS billing system, exchanging data needed for settlements with customers, activations or service blocking.
 # Description
 
 #####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-business-vpn) | [Dowload](https://panel.puqcloud.com/link.php?id=33) | [Forum](https://panel.puqcloud.com/link.php?id=39)
 
-#### The Business VPN module provides an opportunity to sell the Virtual Private Network service for business clients.
+### The Business VPN module provides an opportunity to sell the Virtual Private Network service for business clients.
 
 The module is designed as a professional solution for companies and corporations, which enables remote access to company resources from anywhere in the world in a safe and monitored manner. The biggest difference from common VPN solutions such as NordVPN, EasyVPN etc. is the professional nature of the service.
 
-#####  
+###  
 
-##### What makes Business VPN different from regular, widely offered VPNs
+### What makes Business VPN different from regular, widely offered VPNs
 
 The end customer of the service receives such opportunities as:
 
@@ -24,7 +24,7 @@ Thanks to our solution, the client does not have to delegate the company's resou
 This model of operation allows IT departments in companies to configure in detail and securely internal Firewall, passing specific ports, detailed traffic monitoring, or to keep through internal IDS *which is not possible when using commonly offered solutions.*  
 Such a VPN becomes an integral part of the company's IT infrastructure and is ideally suited to the conditions of a given client.
 
-#### Who and why needs such a service that this module provides.
+### Who and why needs such a service that this module provides.
 
 The service offers to the end customer a fully fledged private network.
 
