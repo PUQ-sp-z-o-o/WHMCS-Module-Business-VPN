@@ -1,6 +1,6 @@
 # Description
 
-#####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-business-vpn) | [Dowload](https://panel.puqcloud.com/link.php?id=33) | [Forum](https://panel.puqcloud.com/link.php?id=39)
+#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-hestiacp) | [Dowload](https://panel.puqcloud.com/link.php?id=33) | [Forum](https://panel.puqcloud.com/link.php?id=39)
 
 ### The Business VPN module provides an opportunity to sell the Virtual Private Network service for business clients.
 
