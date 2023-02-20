@@ -1,6 +1,6 @@
 # 2. Mikrotik preparation and configuration
 
-#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-business-vpn) | [Dowload](https://panel.puqcloud.com/link.php?id=33) | [Forum](https://forum.puqcloud.com/viewforum.php?f=36)
+#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-business-vpn) | [Dowload](http://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Business-VPN/) | [Forum](https://panel.puqcloud.com/link.php?id=39)
 
 >Note: **Enter the following commands one by one and wait for the command to complete.**
 
