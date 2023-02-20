@@ -1,5 +1,7 @@
 # 1. WHMCS setup
 
+#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-hestiacp) | [Dowload](https://panel.puqcloud.com/link.php?id=33) | [Forum](https://panel.puqcloud.com/link.php?id=39)
+
 ### 1. Download the latest version of the module.
 
 PHP 8.1
