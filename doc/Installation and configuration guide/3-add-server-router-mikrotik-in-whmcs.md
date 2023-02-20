@@ -1,6 +1,6 @@
 # 3. Add server (router Mikrotik) in WHMCS
 
-#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-business-vpn) | [Dowload](https://panel.puqcloud.com/link.php?id=33) | [Forum](https://panel.puqcloud.com/link.php?id=39)
+#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-business-vpn) | [Dowload](http://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Business-VPN/) | [Forum](https://panel.puqcloud.com/link.php?id=39)
 
 ### Add a new server to the system WHMCS.
 
