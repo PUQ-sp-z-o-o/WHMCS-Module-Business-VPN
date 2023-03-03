@@ -4,7 +4,7 @@
 
 ### v1.1 Released 03-03-2023
 
-1. Suport Mikrotik v7.8
+1. Support Mikrotik v7.8
 2. Support WHMCS v8.6
 3. Support IonCube PHP Loader v12
 4. Support for PHP 8.1 and PHP 7.4
