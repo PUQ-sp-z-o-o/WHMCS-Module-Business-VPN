@@ -38,7 +38,7 @@ The service offers to the end customer a fully fledged private network.
 - Suspend/Unsuspend/Terminate/Change Package/Change Password/Reset connection
 - Use only Mikrotik API
 - Possibility to set Bandwidth speed limits
-- Module supports multilingualism
+- Module supports multilingualism **(Arabic, Azerbaijani, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Farsi, French, German, Hebrew, Hungarian, Italian, Macedonian, Norwegian, Polish,  Romanian, Russian, Spanish, Swedish, Turkish, Ukrainian)**
 - Account limit per package
 - Bandwidth Limit per account
 
