@@ -2,6 +2,12 @@
 
 #####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-business-vpn) | [Dowload](http://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Business-VPN/) | [Forum](https://panel.puqcloud.com/link.php?id=39)
 
+### v1.1.5 Released 11-10-2023
+1. Supported WHMCS v8.8.0
+2. Translations added/updated **(Arabic, Azerbaijani, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Farsi, French, German, Hebrew, Hungarian, Italian, Macedonian, Norwegian, Polish,  Romanian, Russian, Spanish, Swedish, Turkish, Ukrainian)**
+
+- - - - - -
+
 ### v1.1 Released 03-03-2023
 
 1. Support Mikrotik v7.8
