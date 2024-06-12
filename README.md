@@ -2,7 +2,9 @@
 The module is intended as an opportunity for IT companies to expand their offer for customers by offering paid VPN accounts. After installation, the module will fully manage the creation, edition, and suspension of VPN accounts and interact with the WHMCS billing system, exchanging data needed for settlements with customers, activations or service blocking.
 # Description
 
-#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-business-vpn) | [Dowload](http://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Business-VPN/) | [Forum](https://panel.puqcloud.com/link.php?id=39)
+## Business VPN module **[WHMCS](https://puqcloud.com/link.php?id=77)** 
+
+#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-business-vpn) | [Download](http://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Business-VPN/) | [FAQ](https://panel.puqcloud.com/link.php?id=39)
 
 ### The Business VPN module provides an opportunity to sell the Virtual Private Network service for business clients.
 
